@@ -19,6 +19,6 @@ Zadanie 6. `(*)`Zmień miejscami ćwiczenia których treść kończy się znakam
 Zadanie 7. Dodaj słowa `Zadania do wykonania` przed listą ćwiczeń.\
 Zadanie 8. `(*)` Zmień nagłówek z `git-intro` na `Wstęp do gita`. (-)
 
-Kinga Płoszaj 134144\
-Kacper Mróz 134135\
-Piotr Nowakowski 130333\
+Kinga Płoszaj nr albumu 134144\
+Kacper Mróz nr albumu 134135\
+Piotr Nowakowski nr albumu 130333\
