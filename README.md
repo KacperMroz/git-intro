@@ -21,4 +21,4 @@ Zadanie 8. `(*)` Zmień nagłówek z `git-intro` na `Wstęp do gita`. (-)
 
 Kinga Płoszaj nr albumu 134144\
 Kacper Mróz nr albumu 134135\
-Piotr Nowakowski nr albumu 130333\
+Piotr Nowakowski nr albumu 130333
